@@ -1,0 +1,3 @@
+# ASL-KM
+Kopmyuterdə olan bəzi məlumatların əldə edilməsi üçün istifadə edilə bilinəcək DLL nümunəsi...
+Hörmətlə : Vüsal Məsatəliyev
